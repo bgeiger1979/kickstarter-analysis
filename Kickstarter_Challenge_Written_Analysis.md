@@ -20,16 +20,16 @@ The only real challenge encountered in the project was with the countifs stateme
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-##### That the summer months have are both busier with total projects started through Kickstarter, and also see a correlation of successful projects that increase in those summer months.
+	That the summer months have are both busier with total projects started through Kickstarter, and also see a correlation of successful projects that increase in those summer months.
 
 - What can you conclude about the Outcomes based on Goals?
 
-#####	As stated earlier, the percentage of successful projects seems to follow an inverted bell curve, with smaller or very large projects having the most success.
+	As stated earlier, the percentage of successful projects seems to follow an inverted bell curve, with smaller or very large projects having the most success.
 
 - What are some limitations of this dataset?
 
-#####	All of the data has very broad based descriptors, such as Plays or what country it originated from.  Having more detail on these data points could lead to a more detailed analysis that could help discover what sets successful projects apart.
+	All of the data has very broad based descriptors, such as Plays or what country it originated from.  Having more detail on these data points could lead to a more detailed analysis that could help discover what sets successful projects apart.
 
 - What are some other possible tables and/or graphs that we could create?
 
-#####	You could incorporate some tables or graphs that bring in two variables, staff pick and spotlight.  These could provide additional detail on what is successful or not based on those two identifiers.
+	You could incorporate some tables or graphs that bring in two variables, staff pick and spotlight.  These could provide additional detail on what is successful or not based on those two identifiers.
